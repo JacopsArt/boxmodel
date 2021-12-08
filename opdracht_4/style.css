@@ -1,0 +1,167 @@
+body  { 
+    margin: 0px;
+    padding: 0px 20px;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #d1cac2;    
+}
+
+nav .nav-top {
+    list-style: none;    
+}
+
+.nav-top li {
+    float: right;
+    display: block;
+}  
+
+.nav-top ul {
+    overflow: hidden;
+    border: 3px solid black;
+  background-color: rgb(146, 118, 87);
+  padding: 15px;
+}
+
+.nav-top a {
+    color: rgb(255, 255, 255);
+    padding: 40px 16px;
+    text-decoration: none;
+}
+
+.nav-top a:hover {
+    background-color: rgb(105, 50, 33);
+
+}
+
+header {
+    border: 3px solid rgb(57, 112, 74);
+    text-align: center;
+}
+
+main {
+    margin: 20px 0px;
+    padding: 40px 60px 20px 60px;
+    border: 3px solid rgb(158, 52, 20);
+}
+
+
+hr {
+    height: 2px;
+    background-color: black;
+}
+
+input, textarea {
+    border: 2px solid black;
+}
+
+.black-border {
+    border-top: 3px solid #000000;
+    padding-top: 50px;  
+    margin-bottom: 40px;
+}
+
+
+.border2 {
+    border: 3px solid #ffffff;
+    padding: 5px;  
+}
+
+.div1 {
+    padding-bottom: 0px;
+} 
+
+
+.div2 {
+    margin: 0 auto;
+    width: 33%;
+}
+
+.plaatje {
+	border: 2px solid rgb(0, 0, 0);
+	background-color: #804a4a;
+	padding: 10px;
+}
+    
+.div3 {
+    text-align: left;
+    padding: 0px;
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.div3 h3 {
+    padding: 5px 20px;
+}
+
+.photo-art {
+    color: rgb(104, 104, 158);
+}    
+
+.fotografie {
+    color: rgb(81, 116, 81);
+}
+
+.storytelling {
+    color: rgb(179, 98, 66);
+}
+
+.web-dev {
+    color: rgb(145, 114, 15);
+}
+
+.green-background {
+    background-color: #96b098;
+}
+
+.div4 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+a {
+    color: rgb(233, 95, 53);
+    font-size: 14px;
+    text-decoration: none;
+  }
+
+.div5 {
+    font-size: 12px;
+    text-align: right;
+}
+
+.jermaine {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.button {
+    background-color: #333;
+    color:white;
+    padding: 10px 15px;
+    border: none;
+}
+
+.button:hover {
+    background: rgb(81, 116, 81);
+}
+
+.contact-form {
+    padding: 20px;
+}
+
+.contact-form .form-group {
+    padding-bottom: 15px;
+}
+
+.contact-form label {
+    display:block;
+}
+
+.contact-form input[type="text"], .contact-form textarea{
+    padding: 8px;
+    width: 100%;
+}
+
+.text-contact {
+    text-align: center;
+}
